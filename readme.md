@@ -4,5 +4,7 @@ Link to tweets :  http://www.nicholasvanhorn.com/posts/trump-tweets.html. For th
 ## Images
 #Analysis
 ![This is the File Image](./images/analysis1.JPG)
-#Tweets
+#Tweets plot1
 ![This is the File Image](./images/ugandatweets1.JPG)
+#Tweets plot2
+![This is the File Image](./images/uganda2.JPG)
