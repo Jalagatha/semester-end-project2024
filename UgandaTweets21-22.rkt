@@ -5,7 +5,7 @@
 (require math)
 
 
-(define data (read-csv "C:/Users/MUGIS/Desktop/end_of_sem/uganda.csv" #:->number? #f #:header? #t))
+(define data (read-csv "C:/Users/MUGIS/Desktop/mugisha_ivan_jalagatha/uganda.csv" #:->number? #f #:header? #t))
 
 (define sample_data
   (let ([tmp (map (λ (x) (list (list-ref x 9))) data)])
